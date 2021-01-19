@@ -11,5 +11,21 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# React
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
